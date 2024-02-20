@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Notes-app-react-js-/static/css/main.1775ce3d.css",
+    "main.js": "/Notes-app-react-js-/static/js/main.4396f947.js",
+    "static/media/black-plus-icon-8.jpg": "/Notes-app-react-js-/static/media/black-plus-icon-8.f5d4d283910a71769470.jpg",
+    "index.html": "/Notes-app-react-js-/index.html",
+    "main.1775ce3d.css.map": "/Notes-app-react-js-/static/css/main.1775ce3d.css.map",
+    "main.4396f947.js.map": "/Notes-app-react-js-/static/js/main.4396f947.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1775ce3d.css",
+    "static/js/main.4396f947.js"
+  ]
+}
